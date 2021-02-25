@@ -1,1 +1,1 @@
-# digitrecognition
+digit recognition on mnist dataset
